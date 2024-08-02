@@ -1,14 +1,7 @@
 # am-alist-freebsd
-https://github.com/ansoncloud8/am-alist-freebsd
-
 根据官网alist源码自动构建alist（FreeBSD版本）可以部署文件,实现serv00部署.
 
-- 快速部署视频教程：[详细教程](https://youtu.be/h6fc_DKArrU)
 
-- 官网教程：[AM科技](https://am.809098.xyz)
-- YouTube频道：[@AM_CLUB](https://youtube.com/@AM_CLUB)
-- Telegram交流群：[@AM_CLUBS](https://t.me/AM_CLUBS)
-- 免费订阅：[进群发送关键字: 订阅](https://t.me/AM_CLUBS)
 
 部署alist
 下载项目：https://github.com/ansoncloud8/am-alist-freebsd
@@ -41,9 +34,8 @@ screen ./alist server
 你绑定的域名
 
  # 
-<details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
+<details><summary><strong> </strong></summary>
 *我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
   
-- **TRC20:** `TWTxUyay6QJN3K4fs4kvJTT8Zfa2mWTwDD`
   
 </details>
